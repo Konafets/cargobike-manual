@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Commons Cargobike Handbook'
-copyright = '2023, Verband Freier Lastenräder'
-author = 'Hannes'
+project = 'Lumache'
+copyright = '2021, Graziella'
+author = 'Graziella'
 
 release = '0.1'
 version = '0.1.0'
