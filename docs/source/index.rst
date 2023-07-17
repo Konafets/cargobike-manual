@@ -16,6 +16,8 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 1
+   :titlesonly:
 
    01-definitions/definition_of_terms
    02-preparations/preparations
