@@ -1,10 +1,10 @@
+####################
 Definitions of terms
-====================
+####################
 
-Contents
---------
+How does it differ from a Community Cargobike Project?
+======================================================
 
-.. toctree::
+What is a commons cargobike?
+============================
 
-    what_is_a_commons_cargobike
-    how_does_it_differ_from_community
