@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Lumache'
+project = 'Handbook Commons Cargobikes'
 copyright = '2023, Verband freier Lastenräder'
 author = 'Verband freier Lastenräder'
 
