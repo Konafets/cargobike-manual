@@ -30,3 +30,39 @@ Hinweise für die Gründung findet man z. B. bei den Justizbehörden unter diese
 Weiteres
 --------
 In Erlangen gibt es eine Lastenrad-Initiative, die Teil der Kommunalverwaltung ist: Erlanger Buchungsplattform für Transporträder.
+
+How can responsibilities be defined in the project?
+===================================================
+
+- When it comes to the question of responsibilities, the main concern is a meaningful division of tasks, which reduces the workload. The question arises: how is the responsibility shared between the initiative, the stations and the cooperation partners as well as the users?
+- Who is the contact person for the users and the stations in case of damages etc.
+- Who is the contact person for cooperation partners who want to bring their own cargobikes into the project?
+- Who maintains the cargo bike?
+- Who is responsible for the administration of the webseite and the booking platform?
+- Who is responsible for communication and social media?
+- Who, if necessary, organizes the change of stations and is the contact person for the stations?
+- Who bears the legal responsibility for which cargobike initiative?
+- Who can users contact if they have questions about booking, borrowing and damage?
+
+We find it practical if the responsibility for the cargo bikes falls onto the cooperating partners themselves.
+
+Who can be a cooperation partner?
+=================================
+
+First choice to cooperate are the municipalities. So your project can get part of the public service. But this might only be a good solution for smaller cities because there it is easier to get in contact with the responsible persons in the authorities.
+
+In addition, 'cooperation with bicycle-related organisations can be a great support for the project, for example:
+
+- your local bike association
+- other traffic associations
+- local bike dealers
+- open fablabs or repair cafés
+
+However, they do not necessarily have to be bicycle-related organisations - we have also had good experience with cooperation with other organisations:
+
+- transition town network
+- local attac-groups
+- student associations
+- community gardening projects
+- community centers
+- environmental foundations
