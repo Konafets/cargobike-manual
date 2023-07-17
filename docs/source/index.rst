@@ -1,10 +1,10 @@
-#####################################
-Welcome to commons cargobike handbook
-#####################################
+#########################################
+Welcome to the Commons Cargobike handbook
+#########################################
 
 .. note::
 
-   This project is under active development.
+   This handbook is under active development.
 
 You're just starting a commons cargbike sharing project? Do you have any questions about the ongoing operation? You want to know how others do it? Then you've come to the right place. On the following pages, many existing initiatives have gathered and edited their experiences to help you in all phases of the project.
 
